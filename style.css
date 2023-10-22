@@ -1,0 +1,15 @@
+:root {
+    --JSO-font: "Julius Sans One", cursive;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: var(--JSO-font)
+}
+
+button {
+    font-family: fantasy;
+}
